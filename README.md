@@ -1,28 +1,33 @@
-ctrl+x : cut baris kode
-ctrl+c, ctrl+v : copy baris kode, paste baris kode
-ctrl+shift+k : apus baris kode
-ctrl+tab : pindah antar tab
+ctrl+shift+p             : command pallete
+ctrl+p                   : quick open
 
-ctrl+enter : tambah baris kode dalam level yang sama (kebawah)
-ctrl+shift+enter : sama dengan ctrl+enter tapi keatas
 
-enter : tambah baris baru, beda level
+ctrl+x                   : cut baris kode
+ctrl+c, ctrl+v           : copy baris kode, paste baris kode
+ctrl+shift+k             : apus baris kode
+ctrl+tab                 : pindah antar tab
 
-alt+ up/down : memindahkan baris kode atas/bawah
+ctrl+enter               : tambah baris kode dalam level yang sama (kebawah)
+ctrl+shift+enter         : sama dengan ctrl+enter tapi keatas
 
-ctrl+shift+alt+ up/down : copy baris kode ke atas/ kebawah
+enter                    : tambah baris baru, beda level
 
-ctrl+d : menyeleksi baris tertentu dan baris sama yang berdekatan
-ctrl+shift+ f/h : cari dan timpa elemen
-ctrl+alt+enter : konfirmasi cari dan timpa element
+alt+ up/down             : memindahkan baris kode atas/bawah
 
-ctrl+L : pilih baris
+ctrl+shift+alt+ up/down  : copy baris kode ke atas/ kebawah
 
-home/end : ke awal baris/ akhir baris
-ctrl+ home/end : ke awal atau akhir dokumen
+ctrl+d                   : menyeleksi baris tertentu dan baris sama yang berdekatan
+ctrl+shift+ f/h          : cari dan timpa elemen
+ctrl+alt+enter           : konfirmasi cari dan timpa element
 
-ctrl+ up/down : skrol baris atas/ kebawah
+ctrl+L                   : pilih baris
 
-ctrl+/ : membuat baris menjadi komen
+home/end                 : ke awal baris/ akhir baris
+ctrl+ home/end           : ke awal atau akhir dokumen
 
-ctrl+space : menampilkan suggestion
+ctrl+ up/down            : skrol baris atas/ kebawah
+
+ctrl+/                   : membuat baris menjadi komen
+
+ctrl+space               : menampilkan suggestion
+ctrl+`                   : buka terminal di vscode
