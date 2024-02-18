@@ -6,6 +6,8 @@ ctrl+x                   : cut baris kode
 ctrl+c, ctrl+v           : copy baris kode, paste baris kode
 ctrl+shift+k             : apus baris kode
 ctrl+tab                 : pindah antar tab
+tab                      : tambah indentasi
+shift+tab                : kurangi indentasi
 
 ctrl+enter               : tambah baris kode dalam level yang sama (kebawah)
 ctrl+shift+enter         : sama dengan ctrl+enter tapi keatas
