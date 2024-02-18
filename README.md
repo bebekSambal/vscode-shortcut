@@ -23,6 +23,7 @@ ctrl+shift+ f/h          : cari dan timpa elemen
 ctrl+alt+enter           : konfirmasi cari dan timpa element
 
 ctrl+L                   : pilih baris
+ctrl+shift+L             : multicursor dengan didahului ctrl+d agar select kata secara global
 ctrl+d                   : pilih kata
 
 home/end                 : ke awal baris/ akhir baris
