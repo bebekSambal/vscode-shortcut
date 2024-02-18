@@ -28,6 +28,7 @@ ctrl+d                   : pilih kata
 
 home/end                 : ke awal baris/ akhir baris
 ctrl+ home/end           : ke awal atau akhir dokumen
+ctrl+g                   : go to baris angka tertentu
 
 ctrl+ up/down            : skrol baris atas/ kebawah
 
