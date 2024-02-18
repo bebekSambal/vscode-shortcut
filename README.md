@@ -23,6 +23,7 @@ ctrl+shift+ f/h          : cari dan timpa elemen
 ctrl+alt+enter           : konfirmasi cari dan timpa element
 
 ctrl+L                   : pilih baris
+ctrl+d                   : pilih kata
 
 home/end                 : ke awal baris/ akhir baris
 ctrl+ home/end           : ke awal atau akhir dokumen
